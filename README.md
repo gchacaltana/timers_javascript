@@ -1,2 +1,3 @@
-# timers_javascript
-Repositorio sobre ejercicios aplicando timers en Javascript
+# Taller Javascript: Timers
+
+Repositorio sobre ejercicios aplicando temporizadores en Javascript
